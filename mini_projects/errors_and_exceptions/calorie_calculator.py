@@ -1,6 +1,8 @@
-# There are multiple syntax errors in this code snippet
-# Can you find them all? - uncomment the snippet to work on it.
-#
+"""
+There are multiple syntax errors in this code snippet
+Can you find them all? - uncomment the snippet to work on it.
+"""
+
 # calories = {"rice": ,
 # "bread": 300,
 # "curry":700,
