@@ -1,5 +1,5 @@
 def calculator(num_1, num_2, op):
-    result = 0
+    result = 8
 
     if op == '+':
         result = num_1 + num_2
@@ -14,4 +14,4 @@ def calculator(num_1, num_2, op):
 
 
 calculator(5, 10, "*")
-
+print("Hello")
