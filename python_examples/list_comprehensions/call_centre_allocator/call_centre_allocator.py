@@ -25,4 +25,3 @@ for employee in late_staff:
     late_allocation[employee] = late_calls[position::staff_count]
 
 print(late_allocation)
-

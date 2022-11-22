@@ -16,4 +16,3 @@ apple.display_info()
 cheerios.display_info()
 
 print("does", apple.name, "have a discount?", apple.has_discount)
-

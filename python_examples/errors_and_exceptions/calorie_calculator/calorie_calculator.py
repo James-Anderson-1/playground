@@ -21,4 +21,3 @@ Can you find them all? - uncomment the snippet to work on it.
 #
 #
 # print("Total calories in meal: " + total)
-

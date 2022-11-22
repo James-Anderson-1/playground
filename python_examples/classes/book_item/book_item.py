@@ -5,4 +5,3 @@ class Book:
     genre = "fantasy"
     print(f"{title} has {pages} pages")
     print(f"It is the {number} in the series.")
-

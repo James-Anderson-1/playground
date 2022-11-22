@@ -17,4 +17,3 @@ shared_cost = split_fare(fare=fare_cost,
                          feature_cost=feature_cost)
 
 print(f"Each pays: ${shared_cost}")
-

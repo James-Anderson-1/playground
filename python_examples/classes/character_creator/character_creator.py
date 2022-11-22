@@ -21,4 +21,3 @@ mario = Character()
 mario.greet()
 mario.level_up()
 mario.dec_health()
-
