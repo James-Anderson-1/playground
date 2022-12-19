@@ -1,0 +1,51 @@
+h1 {
+  background-color: grey;
+  border-radius: 2.5px;
+}
+
+h3 {
+  background-color: lightslategrey;
+  border-radius: 2.5px;
+}
+
+#image_1 {
+  filter: opacity(10%);
+  border-radius: 100px;
+}
+
+#image_2 {
+  filter: opacity(30%);
+  border-radius: 50px;
+}
+
+#image_3 {
+  filter: opacity(60%);
+  border-radius: 25px;
+}
+
+#image_4 {
+  filter: opacity(100%);
+  border-radius: 10px;
+}
+
+#cat_1 {
+  filter: blur(8px);
+  rotate: 45deg;
+  border-radius: 100px;
+}
+
+#cat_2 {
+  filter: blur(4px);
+  rotate: 20deg;
+  border-radius: 80px;
+}
+
+#cat_3 {
+  filter: blur(2px);
+  rotate: 10deg;
+  border-radius: 50px;
+}
+
+#cat_4 {
+  border-radius: 10px;
+}
