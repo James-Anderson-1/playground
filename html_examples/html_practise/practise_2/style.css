@@ -1,0 +1,72 @@
+img {
+  border-radius: 10px;
+}
+
+#img_1_1 {
+  filter: contrast(5%);
+}
+
+#img_1_2 {
+  filter: contrast(50%);
+}
+
+#img_1_3 {
+  filter: contrast(100%);
+}
+
+#img_1_4 {
+  filter: contrast(200%);
+}
+
+#img_2_1 {
+  filter: opacity(5%);
+}
+
+#img_2_2 {
+  filter: opacity(50%);
+}
+
+#img_2_3 {
+  filter: opacity(90%);
+}
+
+#img_2_4 {
+  filter: opacity(100%);
+}
+
+#img_3_1 {
+  filter: grayscale(0%);
+}
+
+#img_3_2 {
+  filter: grayscale(30%);
+}
+
+#img_3_3 {
+  filter: grayscale(60%);
+}
+
+#img_3_4 {
+  filter: grayscale(100%);
+}
+
+#img_4_1 {
+  filter: brightness(50%);
+}
+
+#img_4_2 {
+  filter: brightness(100%);
+}
+
+#img_4_3 {
+  filter: brightness(150%);
+}
+
+#img_4_4 {
+  filter: flipV(*);
+}
+
+h1 {
+  background-image: linear-gradient(aqua, aquamarine);
+  border-radius: 10px;
+}
