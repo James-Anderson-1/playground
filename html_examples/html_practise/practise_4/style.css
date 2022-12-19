@@ -1,0 +1,116 @@
+#p_1 {
+  border: solid 5px red;
+}
+
+#p_2 {
+  border: solid 50px blue;
+}
+
+#p_2 {
+  border: solid 50px blue;
+}
+
+#p_3 {
+  border: solid 50px green;
+  border-radius: 50px;
+}
+
+#p_4 {
+  border: 50px orange;
+  border-radius: 50px;
+  border-style: ridge;
+}
+
+#p_5 {
+  border: 50px;
+  border-radius: 50px;
+  border-style: ridge;
+  border-color: darkblue;
+  background-color: green;
+}
+
+#p_6 {
+  border: 50px;
+  border-radius: 50px;
+  border-style: ridge;
+  border-color: darkred;
+  background: linear-gradient(grey, white);
+}
+
+#p_7 {
+  border: 50px;
+  border-radius: 50px;
+  border-style: ridge;
+  border-color: darkgreen;
+  background-image: url("image/pattern.jpg");
+}
+
+#p_8 {
+  border: 50px;
+  border-radius: 50px;
+  border-style: ridge;
+  border-color: darkslateblue;
+  background-image: url("image/light_pattern.jpg");
+  padding: 10px;
+}
+
+#p_9 {
+  border: 50px;
+  border-radius: 50px;
+  border-style: ridge;
+  border-color: darkslateblue;
+  background-image: url("image/light_pattern.jpg");
+  padding: 100px;
+}
+
+#p_10 {
+  border: 50px;
+  border-radius: 50px;
+  border-style: ridge;
+  border-color: darkslateblue;
+  background-image: url("image/light_pattern.jpg");
+  padding: 100px 30px 100px 30px;
+}
+
+#p_11 {
+  border: 50px;
+  border-radius: 50px;
+  border-style: ridge;
+  border-color: darkslateblue;
+  background-image: url("image/light_pattern.jpg");
+  padding: 100px 30px 100px 30px;
+  margin: 100px;
+}
+
+#p_12 {
+  border: 50px;
+  border-radius: 50px;
+  border-style: ridge;
+  border-color: darkolivegreen;
+  background-image: url("image/light_pattern.jpg");
+  padding: 100px 30px 100px 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#p_13 {
+  border: 50px;
+  border-radius: 50px;
+  border-style: ridge;
+  border-color: darkolivegreen;
+  background-image: url("image/light_pattern.jpg");
+  padding: 100px 30px 100px 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#p_14 {
+  border: 50px;
+  border-radius: 50px;
+  border-style: ridge;
+  border-color: darkolivegreen;
+  background-image: url("image/light_pattern.jpg");
+  padding: 100px 30px 100px 30px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
